@@ -13,8 +13,8 @@
 * MySQL
 
 ### New files written for this project:
-*imageDB.js
-*nodeserver.js
+* imageDB.js
+* nodeserver.js
 
 ### Author and Code BY
 ### Richard Brown
