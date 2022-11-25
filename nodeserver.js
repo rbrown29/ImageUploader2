@@ -25,7 +25,7 @@ function fileNotFound(responce) {
 
 function writeJSON(object, responce) {
     responce.writeHead(200, {
-        'Content-Type': 'application/json: charset=utf-8',
+        'Content-Type': 'application/json charset=utf-8',
         'Access-Control-Allow-Origin': '*',
         'Access-Control-Allow-Headers': 'Orgin, X-Requested-With, Content-Type, Accept'
     });
